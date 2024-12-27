@@ -36,8 +36,8 @@ h3 {
   --h6-color: #486e02;
 
   --text-accent: #529D52;
-  --italic-color: #529D52;
-  --bold-color: #529D52;
+  --italic-color: #7c8508;
+  --bold-color: #41b4b4;
   --text-highlight-bg: #529d52b1;
 
   --text-selection: #55a05550;
@@ -80,10 +80,10 @@ h3 {
   --h5-color: #9dc183;
   --h6-color: #486e02;
 
-  --text-accent: #529D52;
-  --italic-color: #529D52;
-  --bold-color: #529D52;
-  --text-highlight-bg: #529d5252;
+  --text-accent: #63be63;
+  --italic-color: #d8e43a;
+  --bold-color: #41b4b4;
+  --text-highlight-bg: #67c26769;
 
   --text-selection: #55a05550;
 
@@ -92,7 +92,7 @@ h3 {
   --code-property: #9D527C;
   --code-background: #3f542946;
 
-  --link-color: #529D52;
+  --link-color: #63be63;
   --link-decoration: underline;
   --link-decoration-thickness: 1px;
   --link-external-color: #529D52;
