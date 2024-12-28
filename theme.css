@@ -55,12 +55,23 @@ h3 {
   --interactive-accent: #529D52;
   --interactive-accent-hover: #2e7e2e;
 
-  --scrollbar-thumb-bg: #529d52a5;
+  --scrollbar-thumb-bg: #529D52;
   --scrollbar-active-thumb-bg: #529D52;
   --indentation-guide-color: #529D52;
   --indentation-guide-color-active: #529D52;
 
   --table-header-background: #2a2a2a4c;
+
+  --nav-item-color-hover: #128a12;
+  --nav-item-color-active: #128a12;
+  --nav-item-size: var(--font-ui-medium);
+  --nav-file-tag: #f4ec9e;
+  --nav-indentation-guide-color: #529d52;
+  --nav-collapse-icon-color: #529d52;
+
+  --icon-color: #274b27;
+  --icon-color-focused: #128a12;
+  --icon-color-hover: #128a12;
 }
 
 .theme-dark {
@@ -107,5 +118,18 @@ h3 {
 
   --table-header-background: #2a2a2a4c;
 
+  --nav-item-color-hover: #39ff14;
+  --nav-item-color-active: #39ff14;
+  --nav-item-size: var(--font-ui-medium);
+  --nav-file-tag: #f4ec9e;
+  --nav-indentation-guide-color: #529d52;
+  --nav-collapse-icon-color: #529d52;
 
+  --icon-color: #529d52;
+  --icon-color-focused: #39ff14;
+  --icon-color-hover: #39ff14;
+}
+
+.is-mobile {
+  --interactive-accent: #529D52;
 }
