@@ -1,4 +1,4 @@
-# Emerald Green
+# Emerald Echo
 
 > Attention to whoever sees this repo on Github: this is a read-only mirror of the repo on [Codeberg](https://codeberg.org/MalcolmMielle/Emerald-Echo) and contributions should be submitted there.
 
